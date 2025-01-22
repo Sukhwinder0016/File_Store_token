@@ -28,8 +28,8 @@ OWNER_ID = int(os.environ.get("OWNER_ID", "6699681580"))
 PORT = os.environ.get("PORT", "3000")
 
 #Database 
-DB_URI = "mongodb+srv://sukhwinderx004:7YQZhJSMEgMjLg9l@cluster0.p7mlu.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
-DB_NAME = os.environ.get("DATABASE_NAME", "sukhwinderx004")
+DB_URI = "mongodb+srv://sukhwindersandhu00445:U9HA5V1eDBsIi03H@cluster0.dgqdl.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+DB_NAME = os.environ.get("DATABASE_NAME", "sukhwindersandhu00445")
 
 SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "https://scoutlinks.rglinks.net")
 SHORTLINK_API = os.environ.get("SHORTLINK_API", "995b0a2580f1b1dbd9250a09aa4c141c29f31e2f")
